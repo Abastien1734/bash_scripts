@@ -1,0 +1,7 @@
+#!/bin/bash
+
+ssh root@192.168.100.2
+
+HOST='root'
+IP_ADDRESS='192.168.100.2'
+DEST=$HOST@$IP_ADDRESS
